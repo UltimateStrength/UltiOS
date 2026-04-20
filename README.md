@@ -157,5 +157,7 @@ make
 ---
 
 <div align="center">
-Made by <a href="https://github.com/UltimateStrength">UltimateStrength</a>
+Made by <a href="https://github.com/UltiCorp">UltiCorp.</a>
+
+<a href="https://github.com/UltimateStrength">Marcos Ulti</a> [DEV]
 </div>
